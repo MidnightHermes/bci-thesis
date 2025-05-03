@@ -1,0 +1,8 @@
+Bridging Minds and Machines: Exploring the Power of Non-Invasive EEG through Language
+
+This thesis explores the viability of non-invasive EEG technology in exploring the human brain. Specifically, the OpenBCI Ultracortex Mark IV EEG headset was used to investigate whether spectral power can distinguish between language-based tasks in bilingual individuals. Participants completed a series of tasks, including silent and oral reading and verbal and written responses, both in French and English. The power spectral density was estimated using Welch's method, and RM-ANOVA and paired t-tests were applied to make statistical comparisons.
+
+Significant differences in spectral power were found across tasks in the Beta I and Beta II spectral bands in the parietal lobe, which is responsible for processing sensory, spatial, and language information. Paired t-tests revealed significant differences in language in the Mu band between the frontal and parietal lobes and in the Beta bands in the occipital and parietal lobes. These findings are encouraging regarding the potential of non-invasive EEG toward capturing meaningfully distinct neural activity across different tasks and languages.
+
+This thesis contributes exploratory evidence and hypotheses supporting the use of non-invasive EEG as a viable tool for exploring and analyzing the human brain.
+
